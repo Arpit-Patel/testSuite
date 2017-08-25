@@ -1,5 +1,5 @@
 # Test Suite Script
 **Usage**
 
-    -chmod +x runSuite.sh  
-    -./runSuite test.in ./program
+    chmod +x runSuite.sh  
+    ./runSuite test.in ./program
